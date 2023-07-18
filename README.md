@@ -1,12 +1,10 @@
 Project title:
 # Analyze Supermarket Data Across the Country - Company XYZ
-
-Project description:
-Company XYZ owns a supermarket chain across the country. Each major branch located in 3 cities across the country recorded sales information for 3 months, to help the company understand sales trends and determine its growth, as the rise of supermarkets competition is seen.
-
+# Project description:
+      Company XYZ owns a supermarket chain across the country. Each major branch located in 3 cities across the country recorded sales information for 3 months, to help the company understand sales trends and determine its growth, as the rise of supermarkets competition is seen.
 # Project Steps
-* Various libraries were imported such as os, glob, numpy, pandas, matplotlib.pyplot etc
-* The data containing information of each branch in the 3 major cities were loaded and combined using pd.concat to form a single dataframe with csv extension and then save as a new file in the local directory containing the project.
+      * Various libraries were imported such as os, glob, numpy, pandas, matplotlib.pyplot etc
+      * The data containing information of each branch in the 3 major cities were loaded and combined using pd.concat to form a single dataframe with csv extension and then save as a new file in the local directory containing the project.
  # 1. The first major task was data exploration
        * The first 5 rows of the newly created file 'Market_data.csv' was displayed
        * no of rows and columns was checked using df.shape
