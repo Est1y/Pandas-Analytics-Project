@@ -36,24 +36,24 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
        * Generate visualization for the "product line" per "Total" column
        * plot Product line per unit price, and Product line per Quantity
 # Insights
-There are 3 different datasets (csv files): Dataset for Abuja_Branch, Lagos Branch, and Port Harcourt Branch
-       * Lagos branch (A) consists of 340 rows and 17 columns
-       * Abuja branch (B) consists of 332 rows and 17 columns
-       * Port Harcourt branch (C) consists of 328 rows and 17 columns
- The datasets were combined to generate a single dataframe (dataset) which consists of 1000 rows and 17 columns
- The statistical summary shows the Standard Deviation (STD) of the unit price and gross income to be 9538.066205 and 4215.177173 respectively and also, the mean value of the unit price   and the gross income is 20041.966800 and 5536.572840 respectively.
- The dataset contains no null values
- The dataset contains records of 501 female customers and 499 male customers
- Port-Harcourt (C) records the highest revenue(gross income) while Lagos (A) follows next and then Abuja (B) as shown in Figure 1
- There are more member customers than normal customers which correspond to females and males in the gender count as shown in Figure 6 and Figure 7 respectively.
- The female spent more time in the City of Port Harcourt as shown in Figure 8
- 'A' has the highest no of customers/sales followed by 'B' and the least is 'C' as can be seen in Figure 2.
- The most used payment method, in general, is EBAY and the least is Card
- The most sold product line in all 3 branches is 'food and beverages' in 'C', next is 'Home and lifestyle' in 'A' and the 3rd most sold product line is 'fashion and accessories' in 'C'.  However, in 'B', the most sold is 'Travel and sport' as can be seen in figure 3.
- The most used payment method for 'Product line' is Cash
- The branch with the lowest rating is "B" while 'C' has the highest as can be seen in Figure 4.
- It is observed that the most frequent customers are of the female gender and the most bought product is the 'Home and lifestyle' as can be seen in Figure 5.
- It is also observed that the most expensive 'product line' is the 'food and beverages' and it is mainly bought by the female gender.
+      There are 3 different datasets (csv files): Dataset for Abuja_Branch, Lagos Branch, and Port Harcourt Branch
+            * Lagos branch (A) consists of 340 rows and 17 columns
+            * Abuja branch (B) consists of 332 rows and 17 columns
+            * Port Harcourt branch (C) consists of 328 rows and 17 columns
+      The datasets were combined to generate a single dataframe (dataset) which consists of 1000 rows and 17 columns
+      The statistical summary shows the Standard Deviation (STD) of the unit price and gross income to be 9538.066205 and 4215.177173 respectively and also, the mean value of the unit price   and the gross income is 20041.966800 and 5536.572840 respectively.
+      The dataset contains no null values
+      The dataset contains records of 501 female customers and 499 male customers
+      Port-Harcourt (C) records the highest revenue(gross income) while Lagos (A) follows next and then Abuja (B) as shown in Figure 1
+      There are more member customers than normal customers which correspond to females and males in the gender count as shown in Figure 6 and Figure 7 respectively.
+      The female spent more time in the City of Port Harcourt as shown in Figure 8
+      'A' has the highest no of customers/sales followed by 'B' and the least is 'C' as can be seen in Figure 2.
+      The most used payment method, in general, is EBAY and the least is Card
+      The most sold product line in all 3 branches is 'food and beverages' in 'C', next is 'Home and lifestyle' in 'A' and the 3rd most sold product line is 'fashion and accessories' in 'C'.  However, in 'B', the most sold is 'Travel and sport' as can be seen in figure 3.
+      The most used payment method for 'Product line' is Cash
+      The branch with the lowest rating is "B" while 'C' has the highest as can be seen in Figure 4.
+      It is observed that the most frequent customers are of the female gender and the most bought product is the 'Home and lifestyle' as can be seen in Figure 5.
+      It is also observed that the most expensive 'product line' is the 'food and beverages' and it is mainly bought by the female gender.
 # Future Work
 I will explore the  dateset for types of customers to be sure that both new and old customers are maintained.
 I will also check for specific sales per month to know the monthly trend of the market
